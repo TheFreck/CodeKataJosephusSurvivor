@@ -1,0 +1,15 @@
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\bin\Debug\net8.0\JosephusSurvivor.exe
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\bin\Debug\net8.0\JosephusSurvivor.deps.json
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\bin\Debug\net8.0\JosephusSurvivor.runtimeconfig.json
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\bin\Debug\net8.0\JosephusSurvivor.dll
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\bin\Debug\net8.0\JosephusSurvivor.pdb
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.AssemblyInfoInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.AssemblyInfo.cs
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.csproj.CoreCompileInputs.cache
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.sourcelink.json
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.dll
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\refint\JosephusSurvivor.dll
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.pdb
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\JosephusSurvivor.genruntimeconfig.cache
+C:\Users\chris.freckleton\source\repos\Katas\JosephusSurvivor\JosephusSurvivor\JosephusSurvivor\obj\Debug\net8.0\ref\JosephusSurvivor.dll
